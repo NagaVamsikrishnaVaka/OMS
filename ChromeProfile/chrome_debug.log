@@ -1,0 +1,5 @@
+[7044:7636:0822/151723.673:WARNING:extension_service.cc(474)] Loading extension specified by --load-component-extension as a regular extension. Extensions specified by --load-component-extension will not be loaded starting in M58. Use --load-extension or --disable-extensions-except.
+[7044:7636:0822/151723.805:INFO:easy_unlock_service_regular.cc(446)] Initializing EasyUnlockService inside the user session.
+[7044:7636:0822/151724.259:INFO:CONSOLE(8)] "SW registered", source: https://www.google.co.in/_/chrome/newtab?rlz=1C1CHZL_enIN743IN743&espv=2&ie=UTF-8 (8)
+[7044:7636:0822/151727.454:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'reflected-xss'.
+", source: https://test.salesforce.com/s.gif (0)

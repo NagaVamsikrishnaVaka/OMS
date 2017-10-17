@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<KeywordDriven>
+	<Reports><![CDATA[\Reports\]]></Reports>
+	<ScreenShots><![CDATA[\ScreenShots\]]></ScreenShots>
+	<PageObjectConfigs><![CDATA[\src\com\realpage\salesforce\pageobjectconfigs\]]></PageObjectConfigs>
+	<ScenariosInfo>
+		<FilePath><![CDATA[C:\Users\vvaka\Desktop\KeywordDriven_Scenarios.xlsx]]></FilePath>
+		<SheetName-Scenarios><![CDATA[Scenarios]]></SheetName-Scenarios>
+		<SheetName-TestCases><![CDATA[TestCases]]></SheetName-TestCases>
+	</ScenariosInfo>
+</KeywordDriven>  

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [KeywordDriven]">
+  <test name="Scenarios(failed)">
+    <classes>
+      <class name="test.TriggerKeywordDrivenFramework">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="triggerAutomation"/>
+        </methods>
+      </class> <!-- test.TriggerKeywordDrivenFramework -->
+    </classes>
+  </test> <!-- Scenarios(failed) -->
+</suite> <!-- Failed suite [KeywordDriven] -->

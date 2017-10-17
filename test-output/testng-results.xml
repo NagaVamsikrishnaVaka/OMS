@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="KeywordDriven" duration-ms="94486" started-at="2017-07-03T11:09:00Z" finished-at="2017-07-03T11:10:34Z">
+    <groups>
+    </groups>
+    <test name="Scenarios" duration-ms="94486" started-at="2017-07-03T11:09:00Z" finished-at="2017-07-03T11:10:34Z">
+      <class name="test.TriggerKeywordDrivenFramework">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.TriggerKeywordDrivenFramework@4d49af10]" name="setup" is-config="true" duration-ms="371" started-at="2017-07-03T16:39:00Z" finished-at="2017-07-03T16:39:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="triggerAutomation()[pri:0, instance:test.TriggerKeywordDrivenFramework@4d49af10]" name="triggerAutomation" duration-ms="94468" started-at="2017-07-03T16:39:00Z" finished-at="2017-07-03T16:40:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- triggerAutomation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.TriggerKeywordDrivenFramework@4d49af10]" name="tearDown" is-config="true" duration-ms="1429" started-at="2017-07-03T16:40:34Z" finished-at="2017-07-03T16:40:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.TriggerKeywordDrivenFramework -->
+    </test> <!-- Scenarios -->
+  </suite> <!-- KeywordDriven -->
+</testng-results>
